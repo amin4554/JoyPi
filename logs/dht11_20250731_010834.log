@@ -1,0 +1,1 @@
+{'timestamp': '2025-07-30T23:08:34.498449', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
