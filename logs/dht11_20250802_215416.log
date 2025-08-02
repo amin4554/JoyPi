@@ -1,0 +1,28 @@
+{'timestamp': '2025-08-02T19:54:16.658217', 'temperature': 25.5, 'humidity': 43.0}
+{'timestamp': '2025-08-02T19:54:22.257324', 'temperature': 25.2, 'humidity': 45.0}
+{'timestamp': '2025-08-02T19:54:27.876208', 'temperature': 25.3, 'humidity': 45.0}
+{'timestamp': '2025-08-02T19:54:33.701667', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:54:39.254872', 'temperature': 25.3, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:54:44.909674', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:54:50.488329', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:54:56.326735', 'temperature': 25.4, 'humidity': 45.0}
+{'timestamp': '2025-08-02T19:55:04.341030', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:55:12.294020', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:55:18.112101', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:55:23.701735', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:55:29.238479', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:55:34.842018', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:55:40.488855', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:55:46.405673', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:55:51.992516', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:55:57.508643', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:03.096928', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:08.680595', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:14.289284', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:56:20.139446', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:28.140929', 'temperature': 25.5, 'humidity': 45.0}
+{'timestamp': '2025-08-02T19:56:33.837492', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}
+{'timestamp': '2025-08-02T19:56:39.668212', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:45.270954', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:51.222125', 'temperature': 25.5, 'humidity': 44.0}
+{'timestamp': '2025-08-02T19:56:57.052270', 'temperature': None, 'humidity': None, 'error': 'Failed to read from DHT11 sensor'}

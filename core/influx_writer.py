@@ -17,13 +17,12 @@ client = InfluxDBClient(
     database=INFLUX_DB
 )
 
-def write_measurement(sensor_name, fields_dict, tags={"location": "server_room"}):
+def write_measurement(sensor_name, fields_dict,):
 
     timestamp = datetime.datetime.utcnow().isoformat()
 
     data = [{
         "measurement": sensor_name,
-        "tags": tags,
         "time": timestamp,
         "fields": fields_dict
     }]

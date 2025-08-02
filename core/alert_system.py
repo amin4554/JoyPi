@@ -1,5 +1,6 @@
 import RPi.GPIO as GPIO
 import time
+from core.camera_manager import capture_image
 
 # BCM pins used in project
 BUZZER_PIN = 18
@@ -18,3 +19,7 @@ def trigger_alert(duration=1.5):
     time.sleep(duration)
     GPIO.output(BUZZER_PIN, GPIO.LOW)
     GPIO.output(VIBRATION_PIN, GPIO.LOW)
+
+    # Capture photo after alert
+    image_path = capture_image()
+    print(f"[📷] Image saved: {image_path}")
