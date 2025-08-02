@@ -1,0 +1,18 @@
+# === Ignore all captured images ===
+captured_images/
+*.jpg
+*.jpeg
+*.png
+
+# === Ignore logs from all sensors ===
+logs/
+*.log
+*.csv
+
+# === Optional: ignore compiled Python files ===
+__pycache__/
+*.pyc
+
+# === Optional: backup or temp files ===
+*.bak
+*.tmp
